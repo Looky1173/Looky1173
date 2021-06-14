@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-https://github-readme-stats.vercel.app/api?username=Looky1173&show_icons=true&bg_color=0,33A1FD,FDCA40&title_color=fff&text_color=fff&icon_color=E5E7E9
+![Looky1173's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Looky1173&show_icons=true&bg_color=0,33A1FD,FDCA40&title_color=fff&text_color=fff&icon_color=E5E7E9)
 
 <!--
 **Looky1173/Looky1173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
